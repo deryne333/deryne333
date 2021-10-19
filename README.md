@@ -4,7 +4,8 @@ I am a quick leaner and provide daily communicate to the clients.
 First quality code output adorned with explanatory documentation. Likely to maintain long term business affairs with clients.
 
 My experience includes:
--Languages and Frameworks:  Golang, React, Angular, Vue, PHP, Laravel, Wordpress, Python, Django, Ruby on Rails
+
+- Languages and Frameworks:  Golang, React, Angular, Vue, PHP, Laravel, Wordpress, Python, Django, Ruby on Rails
 - app/service deployment on AWS/DigitalOcean/Heroku
 - database design and management PosgtreSQL/MySQL/MongoDB
 - scientific computing software for Linux and Windows
