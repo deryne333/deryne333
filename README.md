@@ -1,11 +1,11 @@
 Full-stack developer with 7+ years of web development experience.
-I have worked in cross-platform software development for almost 7 years, with a major focus on web development in the past 6 years.
+I am having 7 years of working experience in modern web architecture using advanced libraries and frameworks. 
 I am a quick leaner and provide daily communicate to the clients.
 First quality code output adorned with explanatory documentation. Likely to maintain long term business affairs with clients.
 
 My experience includes:
 
-- Languages and Frameworks:  Golang, React, Angular, Vue, PHP, Laravel, Wordpress, Python, Django, Ruby on Rails
+- Languages and Frameworks:  Django, Java, React, Angular, Vue, PHP, Laravel, Wordpress, Python, Javascript, 
 - app/service deployment on AWS/DigitalOcean/Heroku
 - database design and management PosgtreSQL/MySQL/MongoDB
 - scientific computing software for Linux and Windows
