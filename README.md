@@ -5,7 +5,7 @@ First quality code output adorned with explanatory documentation. Likely to main
 
 My experience includes:
 
-- Languages and Frameworks:  Django, Java, React, Angular, Vue, PHP, Laravel, Wordpress, Python, Javascript, 
+- Languages and Frameworks:  Node.js,Django, Java, React, Angular, Vue, PHP, Laravel, Wordpress, Python, Javascript, 
 - app/service deployment on AWS/DigitalOcean/Heroku
 - database design and management PosgtreSQL/MySQL/MongoDB
 - scientific computing software for Linux and Windows
